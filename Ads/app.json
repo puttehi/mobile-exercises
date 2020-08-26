@@ -1,0 +1,22 @@
+{
+  "name": "Ads",
+  "displayName": "Ads",
+  "expo": {
+    "name": "Ads",
+    "slug": "Ads",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9677652251367206~7066609916"
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9677652251367206~7066609916"
+      }
+    }
+  }
+}
